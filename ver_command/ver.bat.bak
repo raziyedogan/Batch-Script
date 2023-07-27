@@ -1,0 +1,5 @@
+@echo off
+ver
+:wait
+timeout 5 >nul
+exit

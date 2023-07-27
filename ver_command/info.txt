@@ -1,0 +1,1 @@
+ver.bat ile yapılan, kullanmakta olduğunuz MS-DOS sürümünün gösterilmesidir.
