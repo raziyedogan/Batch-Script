@@ -1,1 +1,0 @@
-cd toplu iş komutu, farklı bir dizinde değişiklik yapmanıza yardımcı olur veya geçerli dizini görüntüler.
