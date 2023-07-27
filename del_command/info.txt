@@ -1,0 +1,1 @@
+del.bat Toplu İş Komut Dosyası çalıştırıldığında, geçerli dizindeki tüm dosyalar silinir. Buna klasörler dahil değildir.
