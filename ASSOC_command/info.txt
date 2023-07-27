@@ -1,0 +1,2 @@
+Assoc, uzantıyı bir dosya türüyle ilişkilendiren, varolan ilişkilendirmeleri görüntüleyen veya bir ilişkilendirmeyi silen bir toplu iş komutudur.
+assoc.bat dosyasında, dosya adı uzantısı .txt için geçerli dosya türü ilişkilendirmesini görüntüleyen işlem yapılmıştır. Yani, bu satır çalıştırıldığında, .txt uzantısının hangi dosya türüyle ilişkilendirildiğini görebilirsiniz. Örneğin, varsayılan olarak .txt dosyaları metin belgesi olarak ilişkilendirilir.
