@@ -1,0 +1,1 @@
+Copy toplu iş komutu, dosyaları bir konumdan diğerine kopyalamak için kullanılır.
