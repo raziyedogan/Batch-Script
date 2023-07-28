@@ -1,0 +1,1 @@
+path komutu, yol değişkenini görüntüler veya ayarlar.
