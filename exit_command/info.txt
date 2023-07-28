@@ -1,0 +1,1 @@
+exit komutu ile toplu iş dosyası sonlandırılır ve komut istemi penceresi kapanır.
