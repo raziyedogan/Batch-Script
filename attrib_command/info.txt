@@ -1,0 +1,1 @@
+Attrib komutu, geçerli dizindeki dosyaların özniteliklerini görüntüler veya ayarlar.
