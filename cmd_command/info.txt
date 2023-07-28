@@ -1,0 +1,1 @@
+cmd komutu, komut isteminin başka bir örneğini çağırır.
