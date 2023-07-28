@@ -1,0 +1,10 @@
+@echo off 
+md mdfile
+cd mdfile 
+cd.. 
+md mdfile1 
+cd mdfile1
+cd.. 
+cd mdfile2 
+cd
+pause

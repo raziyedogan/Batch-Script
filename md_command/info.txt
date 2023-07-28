@@ -1,0 +1,1 @@
+md toplu iş komutu, geçerli konumda yeni bir dizin oluşturur.
