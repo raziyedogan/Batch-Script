@@ -1,0 +1,1 @@
+vol komutu, birim etiketlerini görüntüler. Çıktıda geçerli birim etiketleri görüntülenir. 
