@@ -1,0 +1,1 @@
+rem komutu, yorum satırı için kullanılır.
