@@ -1,0 +1,1 @@
+type komutu, bir dosyanın veya dosyaların içeriğini çıktıya yazdırır. type.bat dosyası çalıştırıldığında info.txt içeriği cmd'de görüntülenir.x
