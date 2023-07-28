@@ -1,0 +1,3 @@
+@echo off
+set /p custom_prompt=Komut istemi için özel metni girin: 
+prompt %custom_prompt%

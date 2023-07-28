@@ -1,0 +1,1 @@
+prompt komutu, cmd.exe istemini değiştirmek veya sıfırlamak için kullanılabilir.
