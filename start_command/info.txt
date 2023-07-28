@@ -1,0 +1,1 @@
+start komutu, bir programı yeni pencerede başlatır veya bir belge açar.
