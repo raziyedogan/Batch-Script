@@ -1,0 +1,1 @@
+choice komutu, kullanıcıya seçeneklerin bir listesini sağlar.

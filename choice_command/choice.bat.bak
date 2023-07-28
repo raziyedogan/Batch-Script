@@ -1,0 +1,6 @@
+@echo off 
+echo "What is the file size you what" 
+echo "Disk1:10MB" 
+echo "Disk2:20MB" 
+echo "Disk3:30MB" 
+choice /c Disk1Disk2Disk3 /m "What is your option Disk1 , Disk2 or Disk3"
