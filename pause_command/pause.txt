@@ -1,0 +1,1 @@
+pause komutu, siz bir tuşa basana kadar cmd ekranının açık kalmasını sağlar. pause komutu, kullanıcıya "Devam etmek için herhangi bir tuşa basın..." mesajını gösterir ve bir giriş satırının girilmesini bekler.
