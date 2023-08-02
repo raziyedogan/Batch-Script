@@ -1,0 +1,1 @@
+DRIVERQUERY komutu, yüklü tüm aygıt sürücülerini ve özelliklerini gösterir.
