@@ -1,0 +1,1 @@
+expand komutu, sıkıştırılmış .cab dolap dosyalarından dosyaları ayıklar.
