@@ -1,0 +1,1 @@
+IPCONFIG komutu, Windows IP Yapılandırması'nı görüntüler. Bağlantıya göre yapılandırmayı ve bu bağlantının adını gösterir.
