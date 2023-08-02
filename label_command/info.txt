@@ -1,0 +1,1 @@
+label komutu bir disk etiketi ekler, ayarlar veya kaldırır.
