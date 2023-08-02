@@ -1,0 +1,1 @@
+Format komutu, diski FAT, FAT32 veya NTFS gibi Windows tarafından desteklenen dosya sistemini kullanacak şekilde biçimlendirir ve diskin önceki içeriğinin üzerine yazar.
