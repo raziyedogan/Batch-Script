@@ -1,0 +1,1 @@
+FIND komutu, dosyalarda veya girişte bir dize arar ve eşleşen satırların çıktısını alır.

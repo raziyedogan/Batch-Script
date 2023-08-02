@@ -1,0 +1,3 @@
+@echo off
+FIND "dosyalarda" info.txt
+pause
