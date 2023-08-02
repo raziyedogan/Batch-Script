@@ -1,0 +1,1 @@
+Comp komutu, dosya boyutuna göre 2 dosyayı karşılaştırır. Bu komut ile iki dosya boyutunun farklı olup olmadığı bilgisi elde edilir.
