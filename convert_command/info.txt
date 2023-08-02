@@ -1,0 +1,1 @@
+Convert komutu, bir birimi FAT16 veya FAT32 dosya sisteminden NTFS dosya sistemine dönüştürür.
